@@ -1,0 +1,8 @@
+# Release files live in GitHub Releases, not in git.
+*.apk
+*.aab
+*.ipa
+*.exe
+*.msi
+*.dmg
+*.zip
