@@ -4,9 +4,9 @@ Download links for our apps. This repo holds no source code, only the release fi
 
 ## Apps
 
-| App | Download |
-|---|---|
-| Shuttle Desk | [Android](../../releases/download/shuttle-desk-latest/shuttle-desk.apk) |
+| App | Download | Guide |
+|---|---|---|
+| Shuttle Desk | [Android](../../releases/download/shuttle-desk-latest/shuttle-desk.apk) | [Admin guide (PDF)](apps/shuttle-desk/Shuttle-Desk-Admin-Guide.pdf) |
 
 Each link always gives the newest version. Every earlier version stays on the [Releases page](../../releases).
 
