@@ -7,6 +7,7 @@ Download links for our apps. This repo holds no source code, only the release fi
 | App | Download | Guide |
 |---|---|---|
 | Shuttle Desk | [Android](../../releases/download/shuttle-desk-latest/shuttle-desk.apk) | [Admin guide (PDF)](apps/shuttle-desk/Shuttle-Desk-Admin-Guide.pdf) |
+| Percent Calc | [Android](../../releases/download/percent-calc-latest/percent-calc.apk) | |
 
 Each link always gives the newest version. Every earlier version stays on the [Releases page](../../releases).
 
